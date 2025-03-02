@@ -80,17 +80,6 @@ Each model is evaluated using RMSE (Root Mean Squared Error), and results are st
 ## 5. Results & Performance
 - RMSE values and model execution times are logged.
 - The best-performing model for each dataset is identified.
-
-## How to Run the Pipeline
-Run the script in the command line:
-
-```sh
-python run_pipeline.py
-```
-
-This will:
-
-- Load raw Airbnb listing data.
 - Clean and preprocess the dataset.
 - Save the cleaned dataset to `processed_data/`.
 - Train multiple models and evaluate performance.

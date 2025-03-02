@@ -11,6 +11,7 @@ This repository contains a comprehensive pipeline for processing, cleaning, and 
 📂 notebooks/         # Jupyter notebooks (if applicable)
 📂 scripts/           # Python scripts for data processing
 📄 README.md          # Project documentation
+📄 requirements.txt   # List of dependencies required for the project
 ```
 
 ## Function Overview

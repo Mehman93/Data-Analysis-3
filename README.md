@@ -7,8 +7,6 @@ This repository contains a comprehensive pipeline for processing, cleaning, and 
 ## 📁 Project Structure
 ```
 📂 data/              # Raw datasets
-📂 processed_data/    # Cleaned datasets
-📂 notebooks/         # Jupyter notebooks (if applicable)
 📂 scripts/           # Python scripts for data processing
 📄 README.md          # Project documentation
 📄 requirements.txt   # List of dependencies required for the project
@@ -84,4 +82,6 @@ Each model is evaluated using RMSE (Root Mean Squared Error), and results are st
 - Save the cleaned dataset to `processed_data/`.
 - Train multiple models and evaluate performance.
 - Display RMSE and model comparison results.
+## 6. General note
+- AI tools were used solely for structuring code, defining coding patterns, and refining wording in comments, documentation, and markdown sections. All core logic, model development, feature selection, and analysis were independently designed and implemented.
 

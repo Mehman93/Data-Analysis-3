@@ -1,0 +1,20 @@
+# Core Data Manipulation
+pandas==1.5.3       # DataFrame operations, time series handling
+numpy==1.23.5       # Numerical computations, logarithm transformation
+
+# Visualization
+matplotlib==3.6.3   # Plotting actual vs. forecasted values
+seaborn==0.12.2     # Enhanced statistical visualization
+
+# Machine Learning & Statistical Models
+scikit-learn==1.2.2 # RMSE calculations, model evaluation
+statsmodels==0.13.5 # ARIMA, Exponential Smoothing methods
+
+# Time Series Forecasting
+pmdarima==2.0.3     # Automated ARIMA model selection
+prophet==1.1.2      # Prophet model for forecasting trends & seasonality
+
+# System & Performance Enhancements
+tqdm==4.64.1        # Progress bars for tracking process completion
+jupyter==1.0.0      # Ensures Jupyter Notebook compatibility (if used)
+ipykernel==6.20.2   # Kernel support for running Jupyter Notebooks
